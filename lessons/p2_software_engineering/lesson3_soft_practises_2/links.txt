@@ -1,0 +1,26 @@
+Integration tests:
+https://www.fullstackpython.com/integration-testing.html
+
+
+Test Driven Data Science:
+http://engineering.pivotal.io/post/test-driven-development-for-data-science/
+
+https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44
+
+https://docs.python-guide.org/writing/tests/
+
+https://www.linkedin.com/pulse/data-science-test-driven-development-sam-savage/
+
+
+Code Reviews:
+https://github.com/lyst/MakingLyst/tree/master/code-reviews
+
+https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html
+
+
+Markdown:
+https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
+
+https://help.github.com/categories/writing-on-github/
+
+
