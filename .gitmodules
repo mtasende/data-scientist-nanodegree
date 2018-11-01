@@ -1,0 +1,3 @@
+[submodule "lessons/part2_software_engineering/web_development/lessons/part2_software_engineering/web_development/backend/workspace/5_deployment/web_app"]
+	path = lessons/part2_software_engineering/web_development/lessons/part2_software_engineering/web_development/backend/workspace/5_deployment/web_app
+	url = https://git.heroku.com/dsnd-udacity-mt-webapp.git
