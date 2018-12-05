@@ -5,7 +5,11 @@ import sys # can use sys to take command line arguments
 
 class Recommender():
     '''
-    This Recommender uses FunkSVD to make predictions of exact ratings.  And uses either FunkSVD or a Knowledge Based recommendation (highest ranked) to make recommendations for users.  Finally, if given a movie, the recommender will provide movies that are most similar as a Content Based Recommender.
+    This Recommender uses FunkSVD to make predictions of exact ratings.
+    And uses either FunkSVD or a Knowledge Based recommendation
+    (highest ranked) to make recommendations for users.  Finally, if given a
+    movie, the recommender will provide movies that are most similar as a
+    Content Based Recommender.
     '''
     def __init__(self):
         '''
